@@ -7,4 +7,4 @@ some useful code snippets
 
 ## Python
 - show ssl cert expiry date [ssl_expiry_date.py](python/ssl_expiry_date.py)
-
+- strftime usage [strftime_usg.py](python/strftime_usg.py)
